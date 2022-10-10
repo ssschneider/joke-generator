@@ -22,6 +22,14 @@ Para completar o desafio usei:
  
 --------------
 
+## Pontuação no Lighthouse
+
+Sempre buscando garantir a melhor experiência possível ao usuário, o Joke Generator é o site de 100% de qualidade.
+
+![](src/joke-generator-score.png)
+
+--------------
+
 ## O Projeto Rodando
 
 #### Versão Desktop
